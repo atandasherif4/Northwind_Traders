@@ -22,7 +22,7 @@ As a data analyst, my purpose is to highlight my skills and reveal the potential
 
 ## DATA MODEL
 
-![](Data Model.png)
+![](Data_Model.png)
 
 ## FINDINGS & VISUALIZATIONS
 
