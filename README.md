@@ -21,7 +21,7 @@ The datasets contain seven tables. The names of the tables and their columns are
 As a data analyst, my purpose is to highlight my skills and reveal the potential of visual storytelling. This task presents an incredible chance to delve into the world of data visualisation and convert unprocessed data into captivating visuals.
 
 ## DATA MODEL
-![](Datamodel.png)
+![](Data_Model.png)
 
 ## FINDINGS & VISUALIZATIONS
 
